@@ -14,7 +14,7 @@
 [![Website](https://img.shields.io/website?label=nrtFirms.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AshvikT?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AshvikT)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimul15-12090&label=Profile%20views&color=0e75b6&style=flat" alt="naimul15-12090" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimul15-12090&label=Profile%20views&Color=aqua&style=for-the-badge" alt="naimul15-12090" /> </p>
 
 <br />
 
