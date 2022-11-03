@@ -1,4 +1,14 @@
-### Hi there, I'm Naimul Huda Walid - aka [naimul15-12090][youtube] 👋
+
+
+
+
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+
+
+###  Hi there, I'm Naimul Huda Walid - aka [naimul15-12090][youtube] 
+<h3 align="left">A passionate web developer from Bangladesh</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa3YaFwzSII0kKg3Nads2dQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -7,18 +17,7 @@
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
-<h1 align="center">Hi there, I'm Naimul Huda Walid - aka [naimul15-12090]</h1>[youtube]
-<h3 align="center">A passionate web developer from Bangladesh</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimul15-12090&label=Profile%20views&color=0e75b6&style=flat" alt="naimul15-12090" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimul15-12090" alt="naimul15-12090" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ashvikt" target="blank"><img src="https://img.shields.io/twitter/follow/ashvikt?logo=twitter&style=for-the-badge" alt="ashvikt" /></a> </p>
 
 - 🔭 I’m currently working on **Easy Marriage website**
 
