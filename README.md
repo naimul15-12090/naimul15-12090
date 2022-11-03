@@ -9,7 +9,7 @@
 
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
-<h1 align="center">Hi 👋, I'm Naimul Huda Walid</h1>
+<h1 align="center">Hi there, I'm Naimul Huda Walid - aka [naimul15-12090]</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -46,7 +46,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimul15-12090&" alt="naimul15-12090" /></p>
 
-
+[website]: https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ
+[course]: https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw
+[twitter]: https://twitter.com/AshvikT
+[youtube]: https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ
+[instagram]: https://www.instagram.com/nrtfirms
+[linkedin]: https://www.linkedin.com/in/naimul-huda-walid-147577254
+[webdevplaylist]: https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw
+[jsplaylist]: https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw
+[cssplaylist]: https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw
+[reactplaylist]: https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ/playlists?view=50&sort=dd&shelf_id=3
 
 <!---
 naimul15-12090/naimul15-12090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
