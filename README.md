@@ -33,10 +33,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashvikt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashvikt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naimul-huda-walid-147577254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naimul-huda-walid-147577254/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100007065945838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007065945838" height="30" width="40" /></a>
-<a href="https://instagram.com/ashvik_trehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashvik_trehan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uca3yafwzsii0kkg3nads2dq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uca3yafwzsii0kkg3nads2dq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naimul-huda-walid-147577254/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naimul-huda-walid-147577254/" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100007065945838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007065945838" height="30" width="40" /></a>
+<a href="https://instagram.com/ashvik_trehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashvik_trehan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uca3yafwzsii0kkg3nads2dq" height="30" width="40" /></a>
 </p>
 
 <br />
