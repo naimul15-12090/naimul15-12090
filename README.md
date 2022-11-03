@@ -7,117 +7,45 @@
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
-## I'm a Husband, Photographer, Developer, and Teacher!!
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I love to take photos and keeps pet animals
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+<h1 align="center">Hi 👋, I'm Naimul Huda Walid</h1>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
-### Connect with me:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[![website](./img/globe-light.svg)](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AshvikT#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AshvikT#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/naimul-huda-walid-147577254#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/naimul-huda-walid-147577254#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/nrtfirms#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/nrtfirms#gh-dark-mode-only)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimul15-12090&label=Profile%20views&color=0e75b6&style=flat" alt="naimul15-12090" /> </p>
 
-### Languages and Tools:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimul15-12090" alt="naimul15-12090" /></a> </p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
+<p align="left"> <a href="https://twitter.com/ashvikt" target="blank"><img src="https://img.shields.io/twitter/follow/ashvikt?logo=twitter&style=for-the-badge" alt="ashvikt" /></a> </p>
 
-<br />
-<br />
+- 🔭 I’m currently working on **Easy Marriage website**
 
----
+- 🌱 I’m currently learning **PHP , Laravel**
 
-### 📺 Latest YouTube Videos
+- 💬 Ask me about **HTML , CSS, JAVA**
 
-<!-- YOUTUBE:START -->
+- 📫 How to reach me **naimulhuda12345@gmail.com**
 
-- [🔴 TestJS Summit 2022 | Test With JavaScript](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
-- [Coinbase Hacked! $16,308 Stolen - Don’t let this happen to you!!](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
-- [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
-- [12 ways to center a div](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
-- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
-<!-- YOUTUBE:END -->
+- ⚡ Fun fact **I love to do Photography and keep pet animals.**
 
-➡️ [more videos...](https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ashvikt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashvikt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/naimul-huda-walid-147577254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naimul-huda-walid-147577254/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007065945838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007065945838" height="30" width="40" /></a>
+<a href="https://instagram.com/ashvik_trehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashvik_trehan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uca3yafwzsii0kkg3nads2dq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uca3yafwzsii0kkg3nads2dq" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-### 📕 Latest Blog Posts
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimul15-12090&show_icons=true&locale=en&layout=compact" alt="naimul15-12090" /></p>
 
-<!-- BLOG-POST-LIST:START -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimul15-12090&" alt="naimul15-12090" /></p>
 
-- [Getting Started with MongoDB &amp; Mongoose](https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-2. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-3. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. 🗣 Commented on [#191](https://github.com/codeSTACKr/create-10k-nft-collection/issues/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. 🎉 Merged PR [#204](https://github.com/codeSTACKr/create-10k-nft-collection/pull/204) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ
-[course]: https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw
-[twitter]: https://twitter.com/AshvikT
-[youtube]: https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ
-[instagram]: https://www.instagram.com/nrtfirms
-[linkedin]: https://www.linkedin.com/in/naimul-huda-walid-147577254
-[webdevplaylist]: https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw
-[jsplaylist]: https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw
-[cssplaylist]: https://www.youtube.com/watch?v=d7V-hfNTadk&list=PLiHEqXi_tR3Ko-R1ShTI2fleL7U7qQIdw
-[reactplaylist]: https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ/playlists?view=50&sort=dd&shelf_id=3
 
 
 <!---
