@@ -1,8 +1,15 @@
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
+</p>
 
 ![github_cover_banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
 ### Hey I am [👨🏻‍][facebook] Naimul Huda Walid, AKA [naimul15-12090][youtube]
+
+
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic full stack web developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming. Thus, I publish some coding tutorials on my youtube channel.
@@ -10,6 +17,8 @@
 <br>
 <div align="center">
 
+![](https://visitor-badge.glitch.me/badge?page_id=naimul15-12090)
+    <br />
 [Email Me](mailto:naimulhuda12345@gmail.com)
 </div>
 </p>    
