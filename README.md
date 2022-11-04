@@ -1,4 +1,4 @@
-### Hey I am 👨🏻‍💻 Naimul Huda Walid, AKA [naimul15-12090][youtube]
+### Hey I am [👨🏻‍][youtube]💻 Naimul Huda Walid, AKA [naimul15-12090][youtube]
 
 ![github_cover_banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
