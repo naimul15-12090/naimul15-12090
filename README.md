@@ -149,9 +149,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=naimul15-12090&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimul15-12090&langs_count=8&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimul15-12090&langs_count=8&layout=compact&show_icons=true&theme=algolia&border_radius=20) -->
     
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimul15-12090&langs_count=8) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimul15-12090&langs_count=8&layout=compact&show_icons=true&theme=algolia&border_radius=20)
     
 
     
