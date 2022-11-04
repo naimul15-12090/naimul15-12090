@@ -124,7 +124,7 @@
         <img alt="youtube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCa3YaFwzSII0kKg3Nads2dQ?logo=youtube&logoColor=red&style=for-the-badge"/>
     </a> 
     <a href="https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ"  target="_blank">
-        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCa3YaFwzSII0kKg3Nads2dQ?color=#e05d44&logo=eye&logoColor=white&style=for-the-badge&labelColor=#555555"/>
+        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCa3YaFwzSII0kKg3Nads2dQ?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=#555555"/>
     </a> 
 </div>
 <br>
