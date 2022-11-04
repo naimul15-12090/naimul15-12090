@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Naimul Huda Walid, AKA naimul15-12090</h1>
+### style="color: #44AEFB;"> 👨🏻‍💻 Naimul Huda Walid, AKA [naimul15-12090][youtube]
 
 ![github_cover_banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
@@ -124,7 +124,7 @@
         <img alt="youtube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCa3YaFwzSII0kKg3Nads2dQ?logo=youtube&logoColor=red&style=for-the-badge"/>
     </a> 
     <a href="https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ"  target="_blank">
-        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCa3YaFwzSII0kKg3Nads2dQ?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=aqua"/>
+        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCa3YaFwzSII0kKg3Nads2dQ?color=white&logo=eye&logoColor=white&style=for-the-badge&labelColor=#555555"/>
     </a> 
 </div>
 <br>
@@ -173,6 +173,7 @@
 </div>
 <!-- End Footer -->
 
+[youtube]: https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ
 <!-- 
 🔗 Links 🔗
 - My Github Portfolio Page:
