@@ -173,10 +173,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML   5 hrs 59 mins      █████████████████████████     75.52 %
-CSS    1 hrs 20 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░     25.48 %
+HTML   1 hr 1 min      █████████████████████████   100.00 %
 ```
-<br />
 
 <!--END_SECTION:waka-->
 <!-- Begin Footer -->
