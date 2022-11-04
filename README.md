@@ -1,4 +1,4 @@
-### Hey I am [👨🏻‍][youtube]💻 Naimul Huda Walid, AKA [naimul15-12090][youtube]
+### Hey I am [👨🏻‍][facebook] Naimul Huda Walid, AKA [naimul15-12090][youtube]
 
 ![github_cover_banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
@@ -174,6 +174,7 @@
 <!-- End Footer -->
 
 [youtube]: https://www.youtube.com/channel/UCa3YaFwzSII0kKg3Nads2dQ
+[facebook]: https://www.facebook.com/profile.php?id=100007065945838
 <!-- 
 🔗 Links 🔗
 - My Github Portfolio Page:
