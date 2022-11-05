@@ -156,7 +156,7 @@
 
 ![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimul15-12090&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=naimul15-12090&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=naimul15-12090&count_private=true&theme=algolia&border_radius=22)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimul15-12090&langs_count=8&layout=compact&show_icons=true&theme=algolia&border_radius=20)
     
