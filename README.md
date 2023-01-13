@@ -174,8 +174,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 2 mins    █████████████████████████   99.59 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+JavaScript   5 hrs 48 mins   ████████████████████████▓   99.17 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
