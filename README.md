@@ -7,7 +7,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic full stack web developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming. Thus, I publish some coding tutorials on my youtube channel.
+    I am a passionate, athletic full stack Laravel web developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming. Thus, I publish some coding tutorials on my youtube channel.
 <br>
 <br>
 <div align="center">
