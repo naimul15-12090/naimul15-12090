@@ -132,11 +132,11 @@
 <!-- Begin Youtube Buttons -->
 <!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
 <div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/channel/UC-cHKb6WDTdsC3-xvwwFLlQ"  target="_blank">
-        <img alt="youtube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC-cHKb6WDTdsC3-xvwwFLlQ?logo=youtube&logoColor=red&style=for-the-badge"/>
+    <a href="https://www.youtube.com/channel/UClG6uht34nA1sqCtNE9nvsg"  target="_blank">
+        <img alt="youtube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UClG6uht34nA1sqCtNE9nvsg?logo=youtube&logoColor=red&style=for-the-badge"/>
     </a> 
-    <a href="https://www.youtube.com/channel/UC-cHKb6WDTdsC3-xvwwFLlQ"  target="_blank">
-        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC-cHKb6WDTdsC3-xvwwFLlQ?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=#555555"/>
+    <a href="https://www.youtube.com/channel/UClG6uht34nA1sqCtNE9nvsg"  target="_blank">
+        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClG6uht34nA1sqCtNE9nvsg?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=#555555"/>
     </a> 
 </div>
 <br>
