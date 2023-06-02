@@ -173,7 +173,7 @@
 ### Daily Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 PHP   10 mins         █████████████████████████   100.00 %
 ```
 
