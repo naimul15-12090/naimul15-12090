@@ -174,9 +174,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS    1 hr 28 mins    ███████████████████▓░░░░░   79.09 %
-HTML   22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-PHP    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
